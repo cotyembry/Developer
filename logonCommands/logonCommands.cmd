@@ -1,4 +1,4 @@
-#C:\Windows\System32\cmd.exe /K C:\Users\johnembry\Developer\logonCommands.cmd
+#C:\Windows\System32\cmd.exe /K C:\Users\johnembry\Developer\logonCommands\logonCommands.cmd
 DOSKEY ls=dir
 DOSKEY c=cls
 DOSKEY clear=cls
